@@ -1,13 +1,18 @@
 # odin-landing-page
+Landing Page Project
 
-Image link: https://pixabay.com/vectors/earth-globe-world-link-global-483978/ (blue globe)
+This project's goal was to build a webpage utilizing newly learned flexbox skills. There are a few sections to the page but it is only an index page. None of the navigation functions as this was just an exercise in a building a single webpage. The page is not scalable to mobile either as the focus was just on getting the page to function on desktops.
 
-https://pixabay.com/photos/boat-yacht-port-luxury-vacations-3480914/ (yacht)
+Acknowledgments:
 
-https://pixabay.com/photos/crowd-concert-music-festival-party-1056764/ (entertainment)
+    Logo: https://pixabay.com/images/id-483978/ (Artist: hitkmatnabiyev)
 
-https://pixabay.com/photos/kick-martial-arts-warrior-185384/ (security)
+    Yacht: https://pixabay.com/images/id-3480914/ (Artist: Tama66)
 
-https://pixabay.com/photos/teamwork-cooperation-brainstorming-3213924/ (management)
+    Entertainment: https://pixabay.com/images/id-1056764/ (Artist: Activedia)
 
-https://pixabay.com/photos/electronics-components-chips-581598/ (tech)
+    Security: https://pixabay.com/photos/kick-martial-arts-warrior-185384/ (Artist: nuzree)
+
+    Management: https://pixabay.com/photos/teamwork-cooperation-brainstorming-3213924/ (Artist: mohamed_hassan)
+
+    Tech: https://pixabay.com/photos/electronics-components-chips-581598/ (Artist: Magnascan)
